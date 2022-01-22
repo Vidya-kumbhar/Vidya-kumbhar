@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vidya-kumbhar
 - 👀 I’m interested in Python, Data science, M/c learning
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Domain knowledge
 - 📫 How to reach me ...vidyakumbhar@gmail.com
 
 <!---
